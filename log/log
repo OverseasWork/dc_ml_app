@@ -1,0 +1,287 @@
+2022-05-24 00:57:08,986 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 00:57:09,025 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 00:57:09,056 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 00:57:09,059 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 00:57:09,059 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 00:57:09,115 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 00:57:09,231 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 00:57:09,231 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 00:57:09,232 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 00:57:09,232 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 00:57:09,233 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 00:58:47,193 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 00:58:47,215 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 00:58:47,237 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 00:58:47,239 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 00:58:47,239 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 00:58:47,289 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 00:58:47,427 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 00:58:47,428 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 00:58:47,429 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 00:58:47,429 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 00:58:47,429 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:00:13,172 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:00:13,193 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:00:13,214 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:00:13,215 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:00:13,216 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:00:13,242 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:00:13,343 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:00:13,344 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:00:13,345 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:00:13,345 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:00:13,345 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:00:24,809 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:00:24,831 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:00:24,854 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:00:24,856 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:00:24,856 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:00:24,885 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:00:24,995 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:00:24,995 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:00:24,996 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:00:24,996 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:00:24,997 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:01:47,771 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:01:47,791 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:01:47,815 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:01:47,817 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:01:47,817 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:01:47,847 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:01:47,949 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:01:47,950 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:01:47,950 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:01:47,950 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:01:47,951 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:03:08,556 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:03:08,577 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:03:08,598 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:03:08,600 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:03:08,600 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:03:08,626 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:03:08,730 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:03:08,730 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:03:08,731 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:03:08,731 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:03:08,732 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:03:08,782 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:04:09,166 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:04:09,190 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:04:09,212 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:04:09,215 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:04:09,215 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:04:09,248 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:04:09,353 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:04:09,354 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:04:09,354 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:04:09,354 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:04:09,355 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:04:09,387 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:04:09,403 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:09:47,239 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:09:47,259 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:09:47,282 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:09:47,283 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:09:47,283 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:09:47,312 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:09:47,416 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:09:47,417 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:09:47,417 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:09:47,417 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:09:47,418 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:09:47,451 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:09:47,465 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:14:39,565 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:14:39,586 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:14:39,608 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:14:39,610 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:14:39,610 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:14:39,638 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:14:39,744 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:14:39,744 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:14:39,745 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:14:39,745 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:14:39,746 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:14:39,778 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:16:39,176 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:16:39,196 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:16:39,218 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:16:39,220 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:16:39,220 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:16:39,247 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:16:39,358 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:16:39,359 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:16:39,359 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:16:39,360 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:16:39,360 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:16:39,392 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:16:39,406 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:16:39,417 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:17:14,893 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:17:14,909 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:17:14,929 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:17:14,931 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:17:14,931 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:17:14,957 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:17:15,061 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:17:15,061 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:17:15,062 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:17:15,062 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:17:15,063 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:17:15,093 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:17:15,107 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:17:15,111 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:18:23,584 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:18:23,605 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:18:23,627 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:18:23,629 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:18:23,629 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:18:23,660 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:18:23,765 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:18:23,766 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:18:23,767 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:18:23,767 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:18:23,767 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:18:23,800 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:18:23,815 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:18:23,819 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:19:19,773 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:19:19,794 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:19:19,816 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:19:19,818 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:19:19,819 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:19:19,852 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:19:19,957 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:19:19,958 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:19:19,959 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:19:19,959 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:19:19,959 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:19:19,992 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:19:20,007 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:19:20,012 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:21:35,701 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:21:35,723 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:21:35,746 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:21:35,748 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:21:35,748 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:21:35,779 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:21:35,884 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:21:35,885 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:21:35,886 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:21:35,886 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:21:35,886 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:21:35,919 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:21:35,934 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:21:35,941 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:21:54,732 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:21:54,753 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:21:54,775 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:21:54,777 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:21:54,777 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:21:54,805 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:21:54,911 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:21:54,912 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:21:54,912 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:21:54,912 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:21:54,913 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:21:54,951 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:21:54,969 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:21:54,979 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:28:12,055 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:28:12,077 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:28:12,100 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:28:12,101 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:28:12,102 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:28:12,131 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:28:12,236 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:28:12,237 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:28:12,237 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:28:12,237 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:28:12,238 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:28:12,271 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:28:12,286 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:28:12,295 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:41:50,522 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:41:50,544 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:41:50,566 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:258] - INFO: appList of origin size (32, 7)
+2022-05-24 01:41:50,567 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:261] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:41:50,567 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:41:50,586 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:41:50,690 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:41:50,691 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:41:50,691 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:41:50,691 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:41:50,692 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:41:50,723 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:41:50,739 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:41:50,747 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:50:07,621 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:50:07,645 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:50:07,668 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:259] - INFO: appList of origin size (32, 7)
+2022-05-24 01:50:07,670 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:262] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:50:07,670 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:50:07,691 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:50:07,795 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:50:07,796 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:50:07,796 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:50:07,796 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:50:07,797 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:50:07,829 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:50:07,844 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:50:07,853 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:53:06,142 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:53:06,164 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:53:06,187 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:259] - INFO: appList of origin size (32, 7)
+2022-05-24 01:53:06,188 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:262] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:53:06,189 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:53:06,208 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:53:06,313 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:53:06,314 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:53:06,314 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:53:06,314 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:53:06,315 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:53:06,346 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:53:06,362 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:53:06,371 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:57:01,806 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:57:01,829 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:57:01,852 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:259] - INFO: appList of origin size (32, 7)
+2022-05-24 01:57:01,854 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:262] - INFO: drop empty  of size  (16, 7)
+2022-05-24 01:57:01,854 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:57:01,875 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:57:01,980 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:57:01,981 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (16, 8)
+2022-05-24 01:57:01,981 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (16, 8)
+2022-05-24 01:57:01,981 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:57:01,982 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (545, 3)
+2022-05-24 01:57:02,014 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:57:02,029 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:57:02,038 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:57:11,928 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:57:11,944 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:57:11,964 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:259] - INFO: appList of origin size (32, 7)
+2022-05-24 01:57:11,966 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:262] - INFO: drop empty  of size  (15, 7)
+2022-05-24 01:57:11,966 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:57:11,984 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:57:12,091 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:57:12,092 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (15, 8)
+2022-05-24 01:57:12,092 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (15, 8)
+2022-05-24 01:57:12,093 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:57:12,093 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (538, 3)
+2022-05-24 01:57:12,124 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:57:12,138 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:57:12,146 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------
+2022-05-24 01:58:36,476 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:21] - INFO: starting run loan_app_id  2112222057265989 -------------------------------------
+2022-05-24 01:58:36,497 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function add_pre cost time is 0
+2022-05-24 01:58:36,520 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:259] - INFO: appList of origin size (32, 7)
+2022-05-24 01:58:36,522 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/pre.py[line:262] - INFO: drop empty  of size  (15, 7)
+2022-05-24 01:58:36,522 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function app_pre cost time is 0
+2022-05-24 01:58:36,543 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_add_feat cost time is 0
+2022-05-24 01:58:36,652 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function __self_app_feat cost time is 0
+2022-05-24 01:58:36,653 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:74] - INFO: appList of origin size (15, 8)
+2022-05-24 01:58:36,653 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:76] - INFO: drop invalid appList of size (15, 8)
+2022-05-24 01:58:36,653 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:78] - INFO: addbook of origin size (545, 3)
+2022-05-24 01:58:36,654 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/dfs_feat.py[line:80] - INFO: drop outerline datetime addbook of size (538, 3)
+2022-05-24 01:58:36,686 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function dfs_feat cost time is 0
+2022-05-24 01:58:36,701 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/utils/decorator.py[line:20] - INFO: current function tf2vec_feat cost time is 0
+2022-05-24 01:58:36,709 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/v4/api.py[line:23] - INFO: end  loan_app_id  2112222057265989 ---------------------------------------------

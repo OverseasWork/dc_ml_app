@@ -12,7 +12,7 @@ from app.app.v4.core.inputs import InputData
 
 ml_router = APIRouter()
 
-@ml_router.post('/app/v1/score',tags=['v1.0'])
+@ml_router.post('/app/v4/score',tags=['v4.0'])
 async def score_v1(data:InputData):
     data = data.dict()
     res = ml_score_v1(data)

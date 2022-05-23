@@ -40,7 +40,7 @@ class LgbModel(BaseInfoPre,AddPre,AppPre,SelfFeat,DFSFeat,TF2Vec):
 
     def new_model_predict(self,df:pd.DataFrame):
         df = df[self.MlFeat]
-        print(df.to_dict(orient='index')[0])
+        # print(df.to_dict(orient='index')[0])
         # prob = np.nanmean([m.predict(df) for m in self.newModel],axis=0)
         prob = self.newModel.predict(df)
         prob = round(float(prob),5)

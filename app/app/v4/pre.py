@@ -23,7 +23,7 @@ from utils.decorator import log_run_time
 from typing import List
 from datetime import datetime
 
-from utils.pre_utils import split_rom_ram, split_screen, timestamp_datetime
+from utils.pre_utils import split_rom_ram, split_screen, timestamp_datetime,get_lower_case_name
 
 
 class BaseInfoPre:
@@ -31,21 +31,10 @@ class BaseInfoPre:
         super().__init__()
         pass
 
-    # def base_info_pre(self,base_info:dict):
-    #     # 可用内存
-    #     # usable_ram, _ = split_rom_ram(base_info['ram'])
-    #     # 可用存储
-    #     # usable_memory, _ = split_rom_ram(base_info['rom'])
-    #     # 分辨率
-    #     # _, RESOLUTION_Y = split_screen(base_info['resolution'])
-    #
-    #     res = {
-    #         'sex':base_info['sex'],'age':base_info['age'],'BRANDS':base_info['brands'],
-    #         'marry':base_info['marry'],'usable_ram':base_info['usable_ram'],
-    #         'usable_memory':base_info['usable_memory'],
-    #         'RESOLUTION_Y':RESOLUTION_Y
-    #     }
-    #     return res
+    def base_info_pre(self,base_info:dict):
+        # 可用内存
+        res = {get_lower_case_name(k):v for k,v in base_info.items()}
+        return res
 
 
 class AddPre:

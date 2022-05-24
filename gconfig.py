@@ -7,7 +7,7 @@
 
 import multiprocessing
 bind = '0.0.0.0:9004'  # Nginx监听 9005 并转发给 9004
-timeout = 100      #超时,毫秒
+timeout = 60      #超时,毫秒
 worker_class = 'uvicorn.workers.UvicornWorker' #使用,uvicornt模式，备选模式: geven, sync
 
 worker_connections = 1000 # 最大并发量

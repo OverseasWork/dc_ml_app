@@ -1,0 +1,4 @@
+127.0.0.1:58695 - "GET /docs HTTP/1.1" 200
+127.0.0.1:58695 - "GET /openapi.json HTTP/1.1" 200
+127.0.0.1:58696 - "POST /app/v4/score HTTP/1.1" 500
+127.0.0.1:59148 - "POST /app/v4/score HTTP/1.1" 500

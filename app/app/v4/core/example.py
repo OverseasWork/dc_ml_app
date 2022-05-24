@@ -5,8 +5,8 @@
 # @Software: PyCharm
 # @Desc: 请求示例
 
-ex_base_info = {'age':37,'final_score':40,'install_apply_seconds':1.0,
-                'marital_status':0,'length':1448,'remaining_memory':1.55,'children_number':2}
+ex_base_info = {'age':37,'finalScore':40,'installApplySeconds':1.0,
+                'maritalStatus':0,'length':1448,'remainingMemory':1.55,'childrenNumber':2}
 
 ex_add_book = [{'m': '#002#', 'u': '2021-12-12 11:07:05'},
  {'m': '*21*787#', 'u': '2021-12-12 11:07:05'},

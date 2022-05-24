@@ -52,18 +52,18 @@ class LgbModel(BaseInfoPre,AddPre,AppPre,SelfFeat,DFSFeat,TF2Vec):
 
     def predict(self,data:dict):
         '''模型预测'''
-        loan_app_id = data['loan_app_id']
-        apply_date = data['apply_date']
+        loan_app_id = data['loanAppId']
+        apply_date = data['applyDate']
 
-        base_info = data['base_info']
-        appList = data['app_list']
-        addBook = data['add_book']
+        base_info = data['baseInfo']
+        appList = data['appList']
+        addBook = data['addBook']
 
         t0 = datetime.now()
 
         # --------------------------------------------------
         # base info 预处理
-        # base_info = self.base_info_pre(base_info=base_info)
+        base_info = self.base_info_pre(base_info=base_info)
         base_info_df = pd.DataFrame({k:[v] for k,v in base_info.items()})
         # print(base_info_df)
         base_info_df['loan_app_id'] = loan_app_id
@@ -95,7 +95,7 @@ class LgbModel(BaseInfoPre,AddPre,AppPre,SelfFeat,DFSFeat,TF2Vec):
         # 模型预测
         prob,score = self.new_model_predict(df=dt_df)
         # print(loan_app_id,prob,score)
-        res = {'loan_app_id': loan_app_id,'prob':prob,'score':score}
+        res = {'loanAppId': loan_app_id,'prob':prob,'score':score,'code':100}
             # , 'start': str(t0),'end':str(datetime.now())}
         return res
 

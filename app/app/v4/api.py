@@ -17,8 +17,8 @@ from .lgb_predict import LgbModel
 
 lgbMl = LgbModel()
 
-def ml_score_v1(data:dict):
-    log.logger.info(f"starting run loan_app_id  {data['loan_app_id']} -------------------------------------")
+def ml_score_v4(data:dict):
+    log.logger.info(f"starting run loan_app_id  {data['loanAppId']} -------------------------------------")
     res = lgbMl.predict(data)
-    log.logger.info(f"end  loan_app_id  {data['loan_app_id']} ---------------------------------------------")
+    log.logger.info(f"end  loan_app_id  {data['loanAppId']} ---------------------------------------------")
     return res

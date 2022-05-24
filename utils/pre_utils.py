@@ -58,3 +58,12 @@ def timestamp_datetime(value):
     t= pd.to_datetime(t)
     return t
 
+
+def get_lower_case_name(text):
+    # 峰坨转换为下划线
+    lst = []
+    for index, char in enumerate(text):
+        if char.isupper() and index != 0:
+            lst.append("_")
+        lst.append(char)
+    return "".join(lst).lower()

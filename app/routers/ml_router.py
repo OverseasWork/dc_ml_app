@@ -7,13 +7,13 @@
 
 from fastapi import APIRouter
 
-from app.app.v4.api import ml_score_v1
+from app.app.v4.api import ml_score_v4
 from app.app.v4.core.inputs import InputData
 
 ml_router = APIRouter()
 
 @ml_router.post('/app/v4/score',tags=['v4.0'])
-async def score_v1(data:InputData):
+async def score_v4(data:InputData):
     data = data.dict()
-    res = ml_score_v1(data)
+    res = ml_score_v4(data)
     return res

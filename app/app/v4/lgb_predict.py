@@ -58,8 +58,9 @@ class LgbModel(BaseInfoPre,AddPre,AppPre,SelfFeat,DFSFeat,TF2Vec):
         base_info = data['baseInfo']
         appList = data['appList']
         addBook = data['addBook']
-
-        t0 = datetime.now()
+        if len(appList) == 0 or len(addBook) == 0:
+            res = {'loanAppId': loan_app_id, 'prob': -999, 'score': -999, 'code': 100}
+            return res
 
         # --------------------------------------------------
         # base info 预处理

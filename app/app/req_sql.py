@@ -35,6 +35,7 @@ class QuerySql:
                 t_employment c 
                 ON a.customer_id = c.customer_id and a.loan_app_id = c.loan_app_id
                 WHERE a.customer_id = '{customer_id}' and a.loan_app_id = '{loan_app_id}'
+                limit 1
         """
         return sql
 
@@ -101,5 +102,6 @@ class QuerySql:
             t.customer_id = '{customer_id}'
             AND
             t.loan_app_id = '{loan_app_id}'
+            limit 1
         """
         return sql

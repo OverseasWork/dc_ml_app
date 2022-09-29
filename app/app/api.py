@@ -92,6 +92,7 @@ def predict(data: dict):
         dt[feat] = dt[feat].astype(float)
         prob = lgbModel.predict(dt[feat])
         # 转化分数
+        # print(prob)
         score = prob2score(prob, basePoint=600, PDO=100, odds0=2)
         res = {
             'score': int(score),

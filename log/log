@@ -1,0 +1,28 @@
+2022-09-29 03:28:40,856 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/api.py[line:52] - WARNING: 基础数据获取失败, ('428935', '2207261521389370'),'428935'
+2022-09-29 03:57:07,294 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/api.py[line:52] - WARNING: 基础数据获取失败, ('xxx', '2207261521389370'),(psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "xxx"
+LINE 18:                 WHERE a.customer_id = 'xxx' and a.loan_app_i...
+                                               ^
+
+[SQL: select
+                a.customer_id ,
+                a.loan_app_id ,
+                a.marital_status,
+                extract(year FROM age(a.create_time,a.ktp_date_of_birth)) AS age,
+                a.last_education ,
+                a.children_number ,
+                c.profession_id  ,
+                c.industry_id ,
+                c.working_years,
+                c.job_type,
+                c.salary 
+                FROM 
+                t_personal_info a 
+                INNER JOIN 
+                t_employment c 
+                ON a.customer_id = c.customer_id and a.loan_app_id = c.loan_app_id
+                WHERE a.customer_id = 'xxx' and a.loan_app_id = '2207261521389370'
+        ]
+(Background on this error at: https://sqlalche.me/e/14/9h9h)
+2022-09-29 04:01:14,086 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/req_dt.py[line:43] - WARNING: 下载S3数据失败:https://madfoo3a-prod.s3.eu-central-1.amazonaws.com/CONTACT/1891/202208230128/6191.json,详情:Expecting value: line 1 column 1 (char 0)
+2022-09-29 04:01:43,829 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/req_dt.py[line:43] - WARNING: 下载S3数据失败:https://madfoo3a-prod.s3.eu-central-1.amazonaws.com/CONTACT/1828/6191.json,详情:Expecting value: line 1 column 1 (char 0)
+2022-09-29 04:03:39,105 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_app/app/app/api.py[line:77] - WARNING: 下载通讯录信息失败, https://madfoo3a-prod.s3.eu-central-1.amazonaws.com/CONTACT/1828/6191.json,Expecting value: line 1 column 1 (char 0)

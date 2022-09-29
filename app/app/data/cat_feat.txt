@@ -1,0 +1,9 @@
+children_number
+phone_type
+profession_id
+device_brand
+city
+marital_status
+sim_operator
+state
+working_years
